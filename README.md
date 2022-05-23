@@ -3,7 +3,7 @@
 - 👀 I’m interested in MERN development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 Social username : sogftengabhishek
+- 📫 Social username : <b>softengabhishek</b>
 
 <!---
 Softengabhishek/Softengabhishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
