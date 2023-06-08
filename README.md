@@ -1,4 +1,4 @@
-![coder view image](https://media-exp1.licdn.com/dms/image/C4D16AQGo4Az8U6K0vQ/profile-displaybackgroundimage-shrink_350_1400/0/1654868600122?e=1674086400&v=beta&t=hJXRhfqb1VGnz4Z2qtBtSuBK6xwbdVMg0HUe0PxE6ok)
+![coder view image](https://scontent.fdel3-1.fna.fbcdn.net/v/t1.6435-9/163040123_2826786287536762_6127061744133976830_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=UW_ypZ5tTgkAX_Scbej&_nc_ht=scontent.fdel3-1.fna&oh=00_AfDrbRmSWFkMapwODzAEqSqwvhcQkeK6k_oMSgsaPgfPhg&oe=64A8ED11)
 - 👋 Hi, I’m **Abhishek Gupta**
 - 👀 I’m interested in MERN development
 - 🌱 I’m currently learning Flutter
